@@ -44,6 +44,4 @@ A repository with all the classes material for becoming a python developer
 
  To create a new branch:
 
-   git checkout -b < NEW BRANCH NAME >
-
- 
+      git checkout -b < NEW BRANCH NAME >
