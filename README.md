@@ -35,4 +35,15 @@ A repository with all the classes material for becoming a python developer
     
        git commit -m "commit message"
 
+  To push the changes:
+
+     git push origin <sourceBRanch>
+
+        class01 -> main
+        ex: git push origin class01
+
+ To create a new branch:
+
+   git checkout -b < NEW BRANCH NAME >
+
  
